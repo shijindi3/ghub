@@ -1,2 +1,0 @@
-# ghub
-a test repository
